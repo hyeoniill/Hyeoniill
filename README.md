@@ -8,14 +8,19 @@
 # 프로그래머스
 ![Programmers Badge](https://github.com/Hyeoninii/Programmers_Badge_Generator/blob/main/result/result.svg) -->
 
-[블로그](https://hyeoninii.github.io)
+[Blog](https://hyeoninii.github.io)
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![js](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<!--
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+-->
+
+
+<br><br><br><br>
 
 <!--25.02.24 S5-->
 <a href="https://www.instagram.com/hyeoniniil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
