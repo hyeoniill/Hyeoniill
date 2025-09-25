@@ -1,5 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyeoninii%27s%20GitHub&fontAlign=40&fontAlignY=40&color=gradient)
----
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyeoninii%27s%20GitHub&fontAlign=40&fontAlignY=40&color=gradient) -->
+# ***Hyeoninii Github***
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeoninii)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhyeon0314)](https://solved.ac/jhyeon0314/)
@@ -26,9 +27,7 @@
 <a href="https://www.instagram.com/hyeoniniil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
-
-
-
+<!--![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=뜨아아)
 
 
 <!--
