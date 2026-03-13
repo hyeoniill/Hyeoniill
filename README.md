@@ -8,7 +8,7 @@
 # 프로그래머스
 ![Programmers Badge](https://github.com/Hyeoninii/Programmers_Badge_Generator/blob/main/result/result.svg) -->
 
-[Blog](https://hyeoninii.github.io)
+[Blog](https://hyeoniill.github.io)
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -23,7 +23,7 @@
 <br><br><br><br>
 
 <!--25.02.24 S5-->
-<a href="https://www.instagram.com/hyeoniniil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/hyeoniill"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 <!--![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=뜨아아)
