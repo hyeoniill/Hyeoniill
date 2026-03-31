@@ -4,9 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhyeon0314)](https://solved.ac/jhyeon0314/)
 
-<!-- 프로그래머스
-# 프로그래머스
-![Programmers Badge](https://github.com/Hyeoninii/Programmers_Badge_Generator/blob/main/result/result.svg) -->
+![Programmers Badge](https://github.com/Hyeoniill/Programmers_Badge_Generator/blob/main/result/result.svg)
 
 [Blog](https://hyeoniill.github.io)
 
