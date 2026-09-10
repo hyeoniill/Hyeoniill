@@ -2,8 +2,6 @@
 
 <img src="./assets/hyeoniill_loading.gif" alt="Hyeoniill" width="600" />
 
-# Hyeoniill
-
 **Backend Developer** · Computer Science
 
 [![GitHub](https://img.shields.io/badge/GitHub-hyeoniill-181717?style=for-the-badge&logo=github)](https://github.com/hyeoniill)
