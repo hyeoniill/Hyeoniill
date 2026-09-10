@@ -1,38 +1,32 @@
-<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyeoninii%27s%20GitHub&fontAlign=40&fontAlignY=40&color=gradient) -->
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeoniill)
+# Hyeoniill'S GitHub
 
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhyeon0314)](https://solved.ac/jhyeon0314/)
--->
+**Backend Developer** · Computer Science
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-hyeoniill-181717?style=for-the-badge&logo=github)](https://github.com/hyeoniill)
+[![Blog](https://img.shields.io/badge/Blog-hyeoniill.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://hyeoniill.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hyeoniill)
+
+</div>
+
+<div align="center">
+
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=%E2%9C%A8%20Tech%20Stack%20%E2%9C%A8&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github&line1=java,Java,auto;c,C,auto;cplusplus,C%2B%2B,auto;&line2=spring,Spring,auto;mysql,MySQL,auto;redis,Redis,auto;&line3=docker,Docker,auto;githubactions,GitHub%20Actions,auto;amazonaws,AWS,auto;&width=460)
+
+</div>
+<div align="center">
+  
+**GitHub Stats**
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeoniill&hide_border=true" />
+</div>
+
+<div align="center">
+
+**Algorithm Practice**
+
 ![Programmers Badge](https://github.com/Hyeoniill/Programmers_Badge_Generator/blob/main/result/result.svg)
----
 
-[블로그](https://hyeoniill.github.io)
-<a href="https://www.instagram.com/hyeoniill"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
----
-
-![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<!--![js](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)-->
-
-<!--
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
--->
-
-
-<br><br><br><br>
-
-<!--25.02.24 S5-->
-
-
-<!--![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=뜨아아)
-
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeoninii)
--->
+</div>
